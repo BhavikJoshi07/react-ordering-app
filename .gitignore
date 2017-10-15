@@ -1,0 +1,17 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# log files #
+*.log
+
+
+# node
+node_modules/
+
+*.env
+*.env.now
