@@ -2,6 +2,9 @@
 .DS_Store
 Desktop.ini
 
+# Security Rules File
+security-rules.json
+
 # Thumbnail cache files
 ._*
 Thumbs.db
