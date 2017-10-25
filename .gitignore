@@ -13,5 +13,8 @@ Thumbs.db
 # node
 node_modules/
 
+# build
+build/
+
 *.env
 *.env.now
